@@ -218,6 +218,6 @@
 			typeof length === "number" && length > 0 && ( length - 1 ) in obj;
 	}
 
-	window.iQuery = window.ᾩ = window._ = iQuery;
+	window.iQuery = window._ = iQuery;
 
 } );

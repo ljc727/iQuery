@@ -75,6 +75,6 @@
 		}
 	} ); 
 
-	window.iQuery = window.ᾩ = window._ = iQuery;
+	window.iQuery = window._ = iQuery;
 
 } );
